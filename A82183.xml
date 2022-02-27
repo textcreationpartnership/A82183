@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the loyalty of the citizens of London to the King and Parliament. Wherein their fidelity and true affection to the publike good is clearly manifested, by their voluntary contributions, personall actions, and strong fortifications, for the safety of the King, Parliament and Kingdome. Published for a president to the whole kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82183</idno>
+            <idno type="STC">Wing D709</idno>
+            <idno type="STC">Thomason E104_32</idno>
+            <idno type="STC">ESTC R13719</idno>
+            <idno type="EEBO-CITATION">99859531</idno>
+            <idno type="PROQUEST">99859531</idno>
+            <idno type="VID">155950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the loyalty of the citizens of London to the King and Parliament. Wherein their fidelity and true affection to the publike good is clearly manifested, by their voluntary contributions, personall actions, and strong fortifications, for the safety of the King, Parliament and Kingdome. Published for a president to the whole kingdome.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Cooke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "June 3d".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155950:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE <hi>LOYALTY</hi> OF THE Citizens of London TO THE King and Parliament.</p>
+            <p>WHEREIN Their Fidelity and true Affection to the publike good is cleary manifeſted, by their Voluntary Contributions, Perſonall Actions, and Strong Fortifications, for the ſafety of the King, Parliament and Kingdome.</p>
+            <p>Publiſhed for a preſident to the whole Kingdome.</p>
+            <p>
+               <add>June 3<hi rend="sup">d.</hi>
+               </add> LONDON, Printed for T. Cooke. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155950:2"/>
+            <pb facs="tcp:155950:2"/>
+            <head>A Declaration of the Loyalty of the Citizens of London to the <hi>KING</hi> and Parliament.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any expreſſions of loyalty to a Prince from his ſubjects may be ſhewed, acceptable, but not profitable to the publick good, ſome aim<g ref="char:EOLhyphen"/>ing at their owne particular preferment, and ſome to win his Prince his favour, this fidel<g ref="char:EOLhyphen"/>lity is in theſe unfortunate times too frequent, this is loyalty without conſiderable premeditation, hurtfull and pernitious, this is exerciſed by temporary obſervances, the very Papiſts Enemies to the cauſe of Chriſt, may be indewed with this kinde of loyalty, but there is a loyalty which is unparal<g ref="char:EOLhyphen"/>lelled, which the beſt and wiſeſt men, which are not indewed with worldly, but ſpirituall wiſdome, have rooted and faſt fixed in their hearts, this loyalty is Duplex nay trip<g ref="char:EOLhyphen"/>lex, and unremoveable, as Solomon, a threefold Cord is not eaſily broken, this hath its aſpect fixed upon a triple object, upon their Prince, upon religion and upon law, upon their Prince as the head of that body of which they are members, and this loyalty is expreſſed in the indeavour to preſerve both from Indemnity and diſlocation or Fraction, for if either, both muſt needs languiſh and in the end periſh by a
+<pb facs="tcp:155950:3"/>Conſumption, the ſecond is upon religion, this ſhould be the <hi>primum mobile,</hi> the cheif mover and loadſtone to draw the ſincereſt and heartieſt affection therto, if this loyalty be wan<g ref="char:EOLhyphen"/>ting which is called fidelity to God, in vaine can a Prince expect hearty affection from his people, if piety be not the ground of all their actions, all will come to naught and prove fruſtrate whether it be by Counſell, or externall ac<g ref="char:EOLhyphen"/>tionate apparances: But here is not to be underſtood eve<g ref="char:EOLhyphen"/>ry mans religion regulated by perticular fancy, for there is but one true religion grounded upon Devine Doctrine re<g ref="char:EOLhyphen"/>corded in the ſacred and Canonicall writings of the Old and new Teſtament; loyalty in religion muſt be conſtant &amp; ſet<g ref="char:EOLhyphen"/>led, not mutable: retain the truth and keep it, let not times alteration change our Religion, let not temporary diviſion di<g ref="char:EOLhyphen"/>vide the heart from his God and his verity. The third object is love, and this is <hi>Duplex,</hi> Divine and humane, upon the law of God, and Ordinance of man, the firſt is Devine obedience and loyalty, the other is politick fidelity, of the laſt I will moſt ſpeake, becauſe it is now the ſecondary cauſe of diſſention, this is alſo twofold, grounded upon common and fundamentall lawes of this kingdome, and upon Parlia<g ref="char:EOLhyphen"/>mentary goverment both knowne and of long continuance, the firſt unalterable, the laſt mutable according to the muta<g ref="char:EOLhyphen"/>bility of times, both the only preſervatives conjunctively, of kingdomes proſperity and tranquillity. If either fall or be deſtroyed, the totall frame of pollitick goverment muſt needs periſh, for in this Conſiſts the wel being of the whole nation, no ſurer ground of peace and happineſſe, then the preſerva<g ref="char:EOLhyphen"/>tion of this ancient eſtabliſhed goverment, the neglect of which breeds ſuch ulcers and deep wounds in the body, that the cure muſt be ſo ſharpe and bitter that the remedy ſeems to many worſe then the diſeaſe, being tedious &amp; weari<g ref="char:EOLhyphen"/>ſome:
+<pb facs="tcp:155950:3"/>It happens juſt ſo in theſe times; the oppreſſions of the ſubjects of this kingdome by tyranicall courts arc now al<g ref="char:EOLhyphen"/>moſt buried in oblivion, through the dilatory preventions of Malignant ſpirits, actors in the precedent tragedy of ſtate oppreſſion, whoſe power hath been and is ſo prevalent that they want not regall protection to defend their actions. Now then is the time to ſhew true loyalty to God, king and coun<g ref="char:EOLhyphen"/>trey: now is the time to lay open the diſtinction of true and falſe obedience, now is the time if ever to ſhew who are true Patriots of the countrey, and who are perfidious betayers of the ſame to the will malice and tyrany of particular perſons, Court favorites, and publick enemies to peace and piety.</p>
+            <p>Having now to my weake abillity made diſtinction be<g ref="char:EOLhyphen"/>tweene true loyalty and falſe, I will proceed to parallell the Actions of the worthy Cittizens of the City of London, to particulars before recited whereby it may be made manifeſt to the whole world, that their loyalty hath been ſingular and indefatigable, no trouble raiſed againſt them either in their perſons or eſtates, hath changed their true loyalty no, thun<g ref="char:EOLhyphen"/>der-bolt of Proclamations or Declarations againſt them can alter that faſt grounded fidelity ſeated in their harts, although in this kinde they have had many diſcouragments if the ſame might have wrought upon there affections well verſed in ſacred writ, he that forſaketh father mother kindred freinds, lands, houſes, goods, even all for the cauſe of God, ſhall re<g ref="char:EOLhyphen"/>ceive an hundred fold in the day of their Accompts.</p>
+            <p>The many contributions and diburſments that have been parted from by them, like continuall ſtreames flowing with conſtancy, without intermiſſion might have been ground ſuf<g ref="char:EOLhyphen"/>ficient to have declined their fidelity, and the little benefit they have as yet received by the ſame, might have drowned their hopes of future happineſſe, if they had not been truly
+<pb facs="tcp:155950:4"/>loyall to the King and parliament.</p>
+            <p>But they are well read in Phiſicall documents, concerning the health of materiall bodies ſimilized to pollitick, contract<g ref="char:EOLhyphen"/>ed and compoſed of a Commonwealth, that a long ſickneſſe muſt have long cure and a dangerous ſore have a deſperate medicine, and that if the ſame be applied and withdrawne before its operation, it may prove more dangerous and dead<g ref="char:EOLhyphen"/>ly then the malady: Therefore the having well conſidered and pondered the premiſſes, count it no loſſe either of time or expence to wait Gods leaſure for the redreſſe and curation of their evill, and lay no negligence or careleſneſſe therein, upon the Parliament whoſe daily labours, dangers and vaſt diſtributions exceed any Parliament that ever ſate in Eng<g ref="char:EOLhyphen"/>land before, for the defence and maintainance of the publick good.</p>
+            <p>No record of former ages can manifeſt the like loyalty. But to the ſhame of thoſe times, the ſubject hath happened to forſake their Parliament in <hi>Ric.</hi> 2. and expoſed both them, and themſelves to the goverment of particular Paraſites, and Herodian foxes, which proued deſtroyers of their countrey &amp; Prince too at laſt: for it is received Maxime in State policy, he that is a traytor to himſelf can never be loyall to his king, and he that is a Traitout to his Country, is a traitour to him<g ref="char:EOLhyphen"/>ſelf, being a member and part of his Country.</p>
+            <p>I now come to the loyalty of the Citizens of <hi>London,</hi> in their perſonall actions as well as in their purſe-contributi<g ref="char:EOLhyphen"/>ons, and in this reſpect the City may be called the Chamber or Store-houſe of true loyalty, a glaſſe wherein the whole Kingdome may ſee not onely the ſtamp or character of loy<g ref="char:EOLhyphen"/>alty, but the ſubſtance it ſelfe. What City in <hi>England</hi> can compare with it, I mean not in reſpect of its largitude, but in reſpect of its alacrity and cheerfull performances of pub<g ref="char:EOLhyphen"/>like
+<pb facs="tcp:155950:4"/>perſonall Offices tending to the common ſafety, the wil<g ref="char:EOLhyphen"/>ling mind is diſcerned aſwel in little as much, and the affecti<g ref="char:EOLhyphen"/>on as really expreſſed; their induſtry ſo great, and operative actions ſo tractable, that it is meet to be recorded in tables of braſſe, to be had in perpetuall memory, a pattern of conſtan<g ref="char:EOLhyphen"/>cy to be imitated by all nations in the world. I am not able to expreſſe the worthineſſe of their actions, conducing not not only to their own ſafeties and preſervations, but to the benefit and profit of theſe whole Kingdome.</p>
+            <p>Their extraordinary guards, by the heroick Companies of trained ſouldiers, daily exerciſed for the ſecurity both of Parliament and City is another demonſtration of their true loyalty, maintained at their own charge, without being bur<g ref="char:EOLhyphen"/>denſome to the reſt of the Kingdome, the activity of their ſpirits, complete habiliaments, may well render her to be the Lady and Queen of Cities, and glory to other nations, not equalized by the moſt famous cities of Europe, none or very few ſerving in this cauſe but the chiefeſt and beſt of the Citizens both for perſonage and eſtate, and ſo experien<g ref="char:EOLhyphen"/>ced in their martiall diſcipline and exerciſes, that the mean<g ref="char:EOLhyphen"/>eſt may be an Officer for his skill, in a Regall Army, the pat<g ref="char:EOLhyphen"/>terne of magnanity and true valour, and what can more ſtrengthen a King, and preſerve the peace of his Kingdome, then true loyalty joyned with valour and courage in his people.</p>
+            <p>No antiquity can record the like fortifications, bulwarks and trenches to have been about this city, as now are raiſed and made, for the ſtrengthening and ſecurity thereof, who can teſtifie that former ages have produced ſuch examples of loyalty; that even from the greateſt to the leaſt of the ſaid City, from the higheſt to the meaneſt, have put their hand to the work, who can report of times paſt, that ever ſo many
+<pb facs="tcp:155950:5"/>thouſand did daily work in their own perſons, as now is ſeen, freely and with the work of their own hands, ſecure them<g ref="char:EOLhyphen"/>ſelves by ſuch out-works? who living can report that every day in the week in a warlike manner with their Commanders Colours, Drums and weapons of war in one hand, and in<g ref="char:EOLhyphen"/>ſtruments of labour in the orher, ſo many thouſands ſhould march to the work, as to a field of fight, imitating the Iſrae<g ref="char:EOLhyphen"/>lites in the days of good <hi>Nehemiah,</hi> working with one hand, and upon the ſound of the Drum, <hi>Arma parata,</hi> to fight with the other, and all this out of true loyalty to their King and Countrey, for the defence of the perſon and royall poſteri<g ref="char:EOLhyphen"/>ty of their Soveraigne, of the true religion grounded on the Word of God, of the Fundamentall and Parliamentary Lawes, and the Rights, Priviledges and Immunities of the free-born ſubjects of the Engliſh Nation. This is the triple object upon which the true loyalty of the Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> hath been hitherto, and yet is faſt fixed and grounded: yet one mark more of their true fidelity (I had almoſt forgotten) worthy to be retained in perpetuall memory to ſucceeding ages, and that is, their ſearching out and rejection of the diſ<g ref="char:EOLhyphen"/>loyall hearted amongſt them, and willingly expoſing them to exemplary puniſhment for the ſame. There is no garden, be it never ſo decked with rare flowers and variety, but hath in it ſome weeds that muſt be plucked out and caſt away, for the better growing of the ſerviceable and delectable flowers: no city that is free from evill members, that muſt be taken notice of, and either cropped or rooted out, leaſt they over<g ref="char:EOLhyphen"/>grow the good, and hinder their flouriſhing and increaſe. And thus I end, wiſhing the whole Kingdome in generall may i<g ref="char:EOLhyphen"/>mitate this renowned City in its true loyalty and fidelity to God, their King and Countrey.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
